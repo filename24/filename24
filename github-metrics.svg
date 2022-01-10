@@ -1351,7 +1351,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>expo/expo</span>
-                                        <span>starred 15 hours ago</span>
+                                        <span>starred 16 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web.</div>
@@ -2384,7 +2384,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 11 Jan 2022, 05:16:34 (timezone Asia/Seoul) with lowlighter/metrics@3.17.0</span>
+                <span>Last updated 11 Jan 2022, 06:16:11 (timezone Asia/Seoul) with lowlighter/metrics@3.17.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
