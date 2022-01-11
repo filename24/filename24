@@ -1350,7 +1350,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>expo/expo</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web.</div>
@@ -1403,7 +1403,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>PaperMC/Paper</span>
-                                        <span>starred 29 days ago</span>
+                                        <span>starred Dec 12 2021</span>
                                     </div>
                                 </div>
                                 <div class="field description">High performance Spigot fork that aims to fix gameplay and mechanics inconsistencies</div>
@@ -2181,7 +2181,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 2.57m out of 274m repositories</span>
+                                    <span class="gh">ranked 2.58m out of 274m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 2 times</div>
                             </div>
@@ -2383,7 +2383,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 11 Jan 2022, 11:38:11 (timezone Asia/Seoul) with lowlighter/metrics@3.17.0</span>
+                <span>Last updated 11 Jan 2022, 12:20:41 (timezone Asia/Seoul) with lowlighter/metrics@3.17.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
