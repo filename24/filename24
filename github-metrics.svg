@@ -1329,7 +1329,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>popop098/alltime</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">code name - alltime</div>
@@ -2392,7 +2392,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 29 Jan 2022, 19:17:18 (timezone Asia/Seoul) with lowlighter/metrics@3.18.0</span>
+                <span>Last updated 29 Jan 2022, 20:14:56 (timezone Asia/Seoul) with lowlighter/metrics@3.18.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
