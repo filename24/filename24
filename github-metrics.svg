@@ -1488,7 +1488,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>actions/github-script</span>
-                                        <span>starred 29 days ago</span>
+                                        <span>starred May 19 2022</span>
                                     </div>
                                 </div>
                                 <div class="field description">Write workflows scripting the GitHub API in JavaScript</div>
@@ -2421,7 +2421,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 18 Jun 2022, 10:44:43 (timezone Asia/Seoul) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 18 Jun 2022, 12:22:24 (timezone Asia/Seoul) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
