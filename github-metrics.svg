@@ -1324,7 +1324,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Assistants-Center/Discord-Dashboard</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Discord.js Dashboard module that will allow you to implement a Dashboard for every Discord Bot in a few lines of code. v3 is coming with React&amp;Fastify!</div>
@@ -2215,7 +2215,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 2.75m out of 317m repositories</span>
+                                    <span class="gh">ranked 2.72m out of 317m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 2 times</div>
                             </div>
@@ -2417,7 +2417,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 Jun 2022, 18:18:30 (timezone Asia/Seoul) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 24 Jun 2022, 19:22:05 (timezone Asia/Seoul) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
