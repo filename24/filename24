@@ -1324,7 +1324,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>public-apis/public-apis</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A collective list of free APIs</div>
@@ -2405,7 +2405,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 1 Jul 2022, 17:25:16 (timezone Asia/Seoul) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 1 Jul 2022, 18:19:08 (timezone Asia/Seoul) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
