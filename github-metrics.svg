@@ -1335,7 +1335,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>30-seconds/30-seconds-of-code</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Short JavaScript code snippets for all your development needs</div>
@@ -1388,7 +1388,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>sujang958/wssh</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">SSH in Web</div>
@@ -2404,7 +2404,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 9 Jul 2022, 13:25:10 (timezone Asia/Seoul) with lowlighter/metrics@3.25.0</span>
+                <span>Last updated 9 Jul 2022, 14:16:13 (timezone Asia/Seoul) with lowlighter/metrics@3.25.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
