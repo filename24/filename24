@@ -1335,7 +1335,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nvie/gitflow</span>
-                                        <span>starred 6 days ago</span>
+                                        <span>starred 7 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Git extensions to provide high-level repository operations for Vincent Driessen's branching model.</div>
@@ -1441,7 +1441,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>microsoft/PowerToys</span>
-                                        <span>starred 13 days ago</span>
+                                        <span>starred 14 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Windows system utilities to maximize productivity</div>
@@ -2454,7 +2454,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23 Jul 2022, 20:16:27 (timezone Asia/Seoul) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 23 Jul 2022, 21:33:18 (timezone Asia/Seoul) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
