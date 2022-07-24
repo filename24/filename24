@@ -1334,7 +1334,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>blitz-js/github-bot</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Our very own Github Bot</div>
@@ -1546,7 +1546,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>30-seconds/30-seconds-of-code</span>
-                                        <span>starred 14 days ago</span>
+                                        <span>starred 15 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Short JavaScript code snippets for all your development needs</div>
@@ -2453,7 +2453,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 Jul 2022, 11:01:14 (timezone Asia/Seoul) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 24 Jul 2022, 12:55:05 (timezone Asia/Seoul) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
