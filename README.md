@@ -1,5 +1,9 @@
 # Hello everyone!
 
+## My github contribution snake
+
+![Snake](https://github.com/ankhgerel/Ankhgerel/raw/output/github-contribution-grid-snake-dark.svg)
+
 ## I
 
 ### Using
