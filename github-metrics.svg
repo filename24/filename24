@@ -1361,7 +1361,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>neovim/neovim</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Vim-fork focused on extensibility and usability</div>
@@ -1467,7 +1467,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>louislam/uptime-kuma</span>
-                                        <span>starred 8 days ago</span>
+                                        <span>starred 9 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A fancy self-hosted monitoring tool</div>
@@ -1626,7 +1626,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mui/material-ui</span>
-                                        <span>starred 21 days ago</span>
+                                        <span>starred 22 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">MUI Core is a collection of React UI libraries for shipping new features faster. Start with Material UI, our fully-loaded component library, or bring your own design system to our production-ready components.</div>
@@ -2501,7 +2501,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 4 Aug 2022, 19:21:18 (timezone Asia/Seoul) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 4 Aug 2022, 20:16:25 (timezone Asia/Seoul) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
