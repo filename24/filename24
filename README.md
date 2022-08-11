@@ -26,6 +26,7 @@
 
 #### DataBase
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-%23FFF.svg?style=for-the-badge&logo=prisma&logoColor=black)
 
 #### Music platform
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
