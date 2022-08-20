@@ -32,7 +32,7 @@
 
 #### Social
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=fff&style=for-the-badge)](https://www.instagram.com/dev.filename/)
-[![Discord Badge](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=fff&style=for-the-badge)](__filename#1901)
+![Discord](https://dcbadge.vercel.app/api/shield/949131762666205235)
 
 #### Music platform
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
