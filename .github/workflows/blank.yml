@@ -85,6 +85,7 @@ jobs:
           plugin_music_time_range: short
           plugin_music_top_type: tracks
           plugin_music_user: 31q55gtjoeaagtmn7bmfzekooyxe
+          plugin_music_token: ${{ secrets.SPOTIFY }}
           plugin_people: yes
           plugin_people_limit: 12
           plugin_people_size: 28
