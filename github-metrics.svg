@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2750" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2777" class="">
     <defs>
         <style/>
     </defs>
@@ -190,7 +190,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    297k added, 203k removed
+                                    326k added, 207k removed
                                 </div>
                             </section>
                             <section>
@@ -3629,7 +3629,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 1.86m out of 368m repositories</span>
+                                    <span class="gh">ranked 1.85m out of 368m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">4</div>
                                     </div>
@@ -3750,7 +3750,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 1.66m out of 368m repositories</span>
+                                    <span class="gh">ranked 1.71m out of 368m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">9</div>
                                     </div>
@@ -4224,22 +4224,22 @@
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
                             <span class="code">bbe42230</span>
-                            <span class="code">packages/debugTool/dist/managers/PageManager.js.map</span>
-                            <span class="code"><span class="snippet additions">++0</span> <span class="snippet deletions">--1</span></span>
+                            <span class="code">packages/debugTool/README.md</span>
+                            <span class="code"><span class="snippet additions">++0</span> <span class="snippet deletions">--3</span></span>
                         </div>
                     </section>
                 </div>
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -1 +0,0 @@</span><br /><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">{"version":3,"file":"PageManager.js","sourceRoot":"","sources":["../../src/managers/PageManager.ts"],"names":[],"mappings":"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"}<br /></span></span>\No newline at end of file</code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -1,3 +0,0 @@</span><br /><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line"># Debug Tool(discord)<br /></span><span class="token prefix deleted">-</span><span class="token line"><br /></span><span class="token prefix deleted">-</span><span class="token line">this project forked from [dokdo](https://github.com/wonderlandpark/dokdo)<br /></span></span>\No newline at end of file</code>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 18 Jan 2023, 17:02:20 (timezone Asia/Seoul) with lowlighter/metrics@3.31.0</span>
+                <span>Last updated 18 Jan 2023, 17:15:19 (timezone Asia/Seoul) with lowlighter/metrics@3.31.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
