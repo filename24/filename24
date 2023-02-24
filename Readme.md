@@ -7,20 +7,12 @@
 ## I
 
 ### Worked
-
-#### Team alpha
-- 2020.??.?? ~ 2021.??.?? 
-
-#### Team Int
-- 2021.01.06 ~ 2022.02.10
-
-#### Team Archive
-- 2022.06.?? ~  2022.10.10
-
-### Working in
-
-#### Infinite Studio
-- 2022.07.16 ~ Now
+| Team Name | Date | 
+| ----- | ----- |
+| Team Alpha | 2020.??.?? ~ 2021.??.?? |
+| Team Int | 2021.01.06 ~ 2022.02.10 |
+| Team Archive | 2022.06.?? ~  2022.10.10 |
+| Infinite Team (working) | 2022.07.16 ~ Now |
 
 ### Using
 
