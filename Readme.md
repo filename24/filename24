@@ -4,6 +4,9 @@
 
 ![Snake](https://github.com/ankhgerel/Ankhgerel/raw/output/github-contribution-grid-snake-dark.svg)
 
+
+## Donate me!
+[![javascript](https://img.shields.io/badge/Paypal-1937b4?style=for-the-badge&logo=Paypal&logoColor=white)](https://www.paypal.com/donate/?hosted_button_id=NXJ42HBRRAL6N)
 ## I
 
 ### Worked
