@@ -3703,7 +3703,7 @@ https://github.com/Chat-Jerous/Jerous/blob/2fb10961b2892cd565e9ac6d8321bbdaac5d8
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 1.98m out of 406m repositories</span>
+                                    <span class="gh">ranked 2m out of 406m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">4</div>
                                     </div>
@@ -4279,7 +4279,7 @@ https://github.com/Chat-Jerous/Jerous/blob/2fb10961b2892cd565e9ac6d8321bbdaac5d8
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Jun 2023, 19:51:54 (timezone Asia/Seoul) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 3 Jun 2023, 20:01:53 (timezone Asia/Seoul) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
