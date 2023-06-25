@@ -3805,7 +3805,7 @@ https://infisical.com/docs/cli/overview
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 2m out of 411m repositories</span>
+                                    <span class="gh">ranked 2.01m out of 411m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">4</div>
                                     </div>
@@ -3882,7 +3882,7 @@ https://infisical.com/docs/cli/overview
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 1.85m out of 411m repositories</span>
+                                    <span class="gh">ranked 1.74m out of 411m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">9</div>
                                     </div>
@@ -4374,7 +4374,7 @@ https://infisical.com/docs/cli/overview
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 Jun 2023, 17:42:11 (timezone Asia/Seoul) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 25 Jun 2023, 17:51:42 (timezone Asia/Seoul) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
