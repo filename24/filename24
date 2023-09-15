@@ -1,5 +1,9 @@
 # Hello everyone!
 
+## Status
+[![spotify](https://api.statusbadges.me/badge/spotify/949131762666205235?style=for-the-badge)](https://api.statusbadges.me/openspotify/949131762666205235)
+![vscode](https://api.statusbadges.me/badge/vscode/949131762666205235?style=for-the-badge)
+
 ## My github contribution snake
 
 ![Snake](https://github.com/ankhgerel/Ankhgerel/raw/output/github-contribution-grid-snake-dark.svg)
