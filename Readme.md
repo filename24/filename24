@@ -4,6 +4,7 @@
 [![spotify](https://api.statusbadges.me/badge/spotify/949131762666205235?style=for-the-badge)](https://api.statusbadges.me/openspotify/949131762666205235)
 ![vscode](https://api.statusbadges.me/badge/vscode/949131762666205235?style=for-the-badge)
 
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/659aadefae22c12523390698?variant=dark)](https://roadmap.sh)
 ## My github contribution snake
 
 ![Snake](https://github.com/ankhgerel/Ankhgerel/raw/output/github-contribution-grid-snake-dark.svg)
