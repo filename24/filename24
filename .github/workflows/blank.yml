@@ -76,16 +76,17 @@ jobs:
           plugin_lines_history_limit: 1
           plugin_lines_repositories_limit: 4
           plugin_lines_sections: base
+
           plugin_music: yes
-          plugin_music_limit: 4
-          plugin_music_mode: recent
-          plugin_music_played_at: yes
-          plugin_music_playlist: https://open.spotify.com/playlist/0R1PYGyGbnRq5IKchzmutw?si=c2784bda887b452c
           plugin_music_provider: spotify
+          plugin_music_mode: recent
+          
+          plugin_music_played_at: yes
+          plugin_music_playlist: https://open.spotify.com/playlist/5bdZMqiaTMQFoL2ICA1ZWV?si=c963a539d75f4bdf
           plugin_music_time_range: short
           plugin_music_top_type: tracks
-          plugin_music_user: 31q55gtjoeaagtmn7bmfzekooyxe
           plugin_music_token: ${{ secrets.SPOTIFY }}
+          
           plugin_people: yes
           plugin_people_limit: 12
           plugin_people_size: 28
