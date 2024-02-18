@@ -47,7 +47,7 @@
 ![Prisma Badge](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=fff&style=for-the-badge)
 
 #### Social
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=fff&style=for-the-badge)](https://www.instagram.com/dev.filename24/)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=fff&style=for-the-badge)](https://www.instagram.com/dev.filename/)
 [![Discord](https://dcbadge.vercel.app/api/shield/949131762666205235)](https://discord.com/users/949131762666205235)
 
 #### Music platform
