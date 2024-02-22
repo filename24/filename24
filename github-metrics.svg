@@ -733,7 +733,7 @@
                                 <div class="infos">
                                     <div class="name">Love wins all</div>
                                     <div class="artist">IU</div>
-                                    <div class="played-at">Played at 21:07:46 on 22 Feb 2024</div>
+                                    <div class="played-at">Played at 21:25:02 on 22 Feb 2024</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -741,7 +741,7 @@
                                 <div class="infos">
                                     <div class="name">Holssi</div>
                                     <div class="artist">IU</div>
-                                    <div class="played-at">Played at 21:03:26 on 22 Feb 2024</div>
+                                    <div class="played-at">Played at 21:20:43 on 22 Feb 2024</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -749,7 +749,7 @@
                                 <div class="infos">
                                     <div class="name">I stan U</div>
                                     <div class="artist">IU</div>
-                                    <div class="played-at">Played at 21:00:28 on 22 Feb 2024</div>
+                                    <div class="played-at">Played at 21:17:45 on 22 Feb 2024</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -757,7 +757,7 @@
                                 <div class="infos">
                                     <div class="name">Shopper</div>
                                     <div class="artist">IU</div>
-                                    <div class="played-at">Played at 20:57:27 on 22 Feb 2024</div>
+                                    <div class="played-at">Played at 21:14:44 on 22 Feb 2024</div>
                                 </div>
                             </div>
                         </div>
@@ -3877,7 +3877,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 1.84m out of 67.9m repositories</span>
+                                    <span class="gh">ranked 1.84m out of 78.1m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">5</div>
                                     </div>
@@ -3998,7 +3998,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 1.88m out of 67.9m repositories</span>
+                                    <span class="gh">ranked 1.88m out of 78.1m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">10</div>
                                     </div>
@@ -4415,7 +4415,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 Feb 2024, 21:15:48 (timezone Asia/Seoul) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 22 Feb 2024, 21:28:40 (timezone Asia/Seoul) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
