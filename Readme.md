@@ -1,5 +1,10 @@
 # Hello everyone!
 
+
+## Donate me!
+[![javascript](https://img.shields.io/badge/Paypal-1937b4?style=for-the-badge&logo=Paypal&logoColor=white)](https://www.paypal.com/donate/?hosted_button_id=NXJ42HBRRAL6N)
+[![Buy Me A Coffee Badge](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FD0?logo=buymeacoffee&logoColor=000&style=for-the-badge)](https://www.buymeacoffee.com/filename24)
+
 ## Status
 [![spotify](https://api.statusbadges.me/badge/spotify/949131762666205235?style=for-the-badge)](https://api.statusbadges.me/openspotify/949131762666205235)
 ![vscode](https://api.statusbadges.me/badge/vscode/949131762666205235?style=for-the-badge)
@@ -9,9 +14,6 @@
 
 ![Snake](https://github.com/ankhgerel/Ankhgerel/raw/output/github-contribution-grid-snake-dark.svg)
 
-
-## Donate me!
-[![javascript](https://img.shields.io/badge/Paypal-1937b4?style=for-the-badge&logo=Paypal&logoColor=white)](https://www.paypal.com/donate/?hosted_button_id=NXJ42HBRRAL6N)
 ## I
 
 ### Worked
