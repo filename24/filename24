@@ -50,7 +50,7 @@
 
 #### Social
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=fff&style=for-the-badge)](https://www.instagram.com/dev.filename/)
-[![Discord](https://dcbadge.vercel.app/api/shield/949131762666205235)](https://discord.com/users/949131762666205235)
+[![Discord](https://dcbadge.limes.pink/api/shield/949131762666205235)](https://discord.com/users/949131762666205235)
 
 #### Music platform
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
