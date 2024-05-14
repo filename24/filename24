@@ -12,7 +12,7 @@
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/659aadefae22c12523390698?variant=dark)](https://roadmap.sh)
 ## My github contribution snake
 
-![Snake](https://github.com/filename24/filename24/raw/output/github-contribution-grid-snake-dark.svg)
+![Snake](https://github.com/filename24/filename24/raw/output/github-snake-dark.svg)
 
 ## I
 
