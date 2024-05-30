@@ -703,7 +703,7 @@
                             <div class="label" title="Node.js is a tool for executing JavaScript in a variety of environments.">node.js</div>
                             <div class="label" title="A bot is an application that runs automated tasks over the Internet.">bot</div>
                             <div class="label" title="TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.">typescript</div>
-                            <div class="label" title="Windows is Microsoft&amp;apos;s GUI-based operating system.">windows</div>
+                            <div class="label" title="">windows</div>
                             <div class="label" title="Firebase is a mobile app development platform that provides data analysis and database web services for developers.">firebase</div>
                             <div class="label" title="Mobile apps, mobile OS, mobile databases, &amp;amp; mobile testing frameworks.">mobile</div>
                             <div class="label" title="The pluggable linting utility for JavaScript and JSX.">eslint</div>
@@ -4548,7 +4548,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 31 May 2024, 05:41:47 (timezone Asia/Seoul) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 31 May 2024, 05:51:42 (timezone Asia/Seoul) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
