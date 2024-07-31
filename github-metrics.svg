@@ -468,7 +468,7 @@
                                 <div class="infos">
                                     <div class="name">Go away go away</div>
                                     <div class="artist">CHANYEOL</div>
-                                    <div class="played-at">Played at 23:50:31 on 31 Jul 2024</div>
+                                    <div class="played-at">Played at 00:01:23 on 1 Aug 2024</div>
                                 </div>
                             </div>
                             <div class="track">
@@ -4344,7 +4344,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 31 Jul 2024, 23:51:33 (timezone Asia/Seoul) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 1 Aug 2024, 00:02:33 (timezone Asia/Seoul) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
